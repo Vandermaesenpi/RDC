@@ -1,0 +1,9 @@
+Privacy policy
+Tinyfolks is developed by VANDERMAESEN GAMES
+The term Application means the application for Android mobile or tablet called Tinyfolks.
+Our Privacy Policy explains what data we collect from the Application and why we collect it, how we use / process this information and to whom we may disclose it.
+
+Personal data
+From our Application, we do not collect any personal data (for example, names, addresses, phone numbers, e-mail addresses or complete IP addresses).
+We do not collect any personally identifiable information. We do not sell, trade or transfer this information to third parties.
+However, Tinyfolks relies on software provided by other developers; their rules of confidentiality are also applicable.
